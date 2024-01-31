@@ -3,7 +3,7 @@ To run the application
 npm install
 npm run dev
 
-![Scatter Plot](/ScreenShots/ScatterPLot.png)
+![Scatter Plot](/public/ScreenShots/ScatterPLot.png)
 
 # Scatter Plot Application
 
